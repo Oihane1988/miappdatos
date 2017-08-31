@@ -1,0 +1,35 @@
+commit fab70e8bd38f8cc9a4bc7dba1c4f1f36edd90fa8
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 11:34:46 2017 +0200
+
+    Congelamos la app
+
+commit 292080baeb4ef5d39daee45b08a9ad48ae64e601
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 11:23:24 2017 +0200
+
+    Creamos tabla de datos
+
+commit 925b7c1bdc453fa4b0ce5c6f5533f5c8ceebb861
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 11:04:36 2017 +0200
+
+    Agregando fuente de datos CSV
+
+commit 11a56ec235ece067ecd97478005390c8792520d3
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 11:02:38 2017 +0200
+
+    Real HTML
+
+commit 5c8ed0b74ddfcad4588e4ec46ed394f55084b926
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 10:59:42 2017 +0200
+
+    Flask app.py and first template
+
+commit 93fae8db4f5eaaccedd8d7cce556beb46928c866
+Author: Oihane <oburuaga@gmail.com>
+Date:   Thu Aug 31 10:43:36 2017 +0200
+
+    Primer commit
